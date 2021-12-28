@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python and Kotlin
+- 🌱 I’m currently learning Python and C#. Sometimes I code in Java, cause I love Minecraft!
 - 😄 n1clud3 pronounses like "niclude"
 <!--
 **n1clud3/n1clud3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
