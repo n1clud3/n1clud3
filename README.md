@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm in love with TypeScript and Python!
+- ❤️ I love with Rust and Python!
 - 😄 n1clud3 pronounses like "niclude"
 <!--
 **n1clud3/n1clud3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
