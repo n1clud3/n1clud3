@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ❤️ I love Rust and Python!
+- ❤️ I love Python, Lua, but I also like to write utils in Rust!
 - 😄 n1clud3 pronounses like "niclude"
 - 📫 Reach me on Discord: n1clud3#1391
 <!--
