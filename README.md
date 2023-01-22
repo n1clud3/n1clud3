@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- ❤️ I love Python, Lua, but I also like to write utils in Rust!
-- 😄 n1clud3 pronounses like "niclude"
-- 📫 Reach me on Discord: n1clud3#1391
+- I love Python, Lua, but I also like to write utils in Rust!
+- Reach me out at n1clud3@proton.me
 <!--
 **n1clud3/n1clud3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
