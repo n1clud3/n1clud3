@@ -3,5 +3,5 @@
 - Languages I commonly use:
   - 🌑 Lua - for Garry's Mod addon programming
   - 🐍 Python - for system administration and some utils
-  - ⚙️ Rust - for fun!
+  - ⚙️ and lots of other languages I strive to learn!
 - Reach me out at [this email](mailto:n1clud3@protonmail.com)
