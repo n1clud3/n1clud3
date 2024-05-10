@@ -1,7 +1,6 @@
 # Hello, I'm n1clude!
 
 ![n1clud3's Stats](https://github-readme-stats.vercel.app/api?username=n1clud3&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![n1clud3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=n1clud3&theme=nord&hide_border=true)
 
 ### Default shell:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
