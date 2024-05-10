@@ -1,4 +1,4 @@
-# Hello, I'm n1clude! *A tech enthusiast from :ukraine: who codes with passion.*
+# `~ $ cat readme.md ⏎`
 
 ![n1clud3's Stats](https://github-readme-stats.vercel.app/api?username=n1clud3&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
