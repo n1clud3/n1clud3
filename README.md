@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm n1clude!</h1>
+# Hello, I'm n1clude!
 
 [![n1clude's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1clud3)](https://github.com/n1clud3)
 
