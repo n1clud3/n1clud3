@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-![n1clud3's Stats](https://github-readme-stats.vercel.app/api?username=n1clud3&theme=nord&show_icons=true&hide_border=true&count_private=true)
+https://niclude.xyz
 
 ### Development tools:
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
