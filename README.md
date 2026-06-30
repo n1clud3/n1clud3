@@ -15,8 +15,6 @@ Matrix: `n1clude:niclude.xyz`
 **Lua** - I'm doing something for Garry's Mod,
 or maybe I finally got to develop my own engine with scripting.
 
-**Nix** - Configuring my workspaces and OS.
-
 ## projects to look at
 
 Check my pinned. This is the work I'm kinda proud of :>
