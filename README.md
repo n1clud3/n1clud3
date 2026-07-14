@@ -4,9 +4,9 @@ My domain - https://niclude.xyz
 
 ## contacts
 
-Business e-mail: `mykola.malovanyi1@gmail.com`
+Business e-mail: `noneclude@gmail.com`
 
-Matrix: `n1clude:niclude.xyz`
+Matrix: ~~`n1clude:niclude.xyz`~~ no longer active.
 
 ## my toolset
 
@@ -23,6 +23,7 @@ I have a lot of private repositories, but because I’m a perfectionist,
 I just can’t bring myself to publish them until they’re just ideal enough =(
 
 I am currently trying out Codeberg.
-You can find my Codeberg repos here: https://codeberg.org/n1clude
+You can find my Codeberg repos [here](https://codeberg.org/n1clude).
+I am also mirroring Codeberg repos to GitHub.
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
