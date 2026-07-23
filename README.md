@@ -10,7 +10,7 @@ Matrix: ~~`n1clude:niclude.xyz`~~ no longer active.
 
 ## my toolset
 
-**Rust** - I love low level programming.
+**C / Rust** - I love low level programming.
 
 **Lua** - I'm doing something for Garry's Mod,
 or maybe I finally got to develop my own engine with scripting.
