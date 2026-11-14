@@ -4,9 +4,9 @@ My domain - https://niclude.xyz
 
 ## contacts
 
-Business e-mail: `noneclude@gmail.com`
-
-Telegram: `@n1clude`
+- Business e-mail: <noneclude@gmail.com>
+- Telegram: [@n1clude](t.me/n1clude)
+- Discord: [n1clude](https://discord.com/users/509399052543066114)
 
 ## projects to look at
 
